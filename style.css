@@ -1,0 +1,264 @@
+.yummy{
+    height: 30px;
+    width: 1500px;
+    border: 1px solid transparent;
+    background-color: rgb(3, 65, 98);
+}
+.download{
+    height: 29px;
+    width: 130px;   
+    border: 1px solid transparent;
+    position: absolute;
+    right: 1px;
+    top: 9px;
+    background-color: rgb(36, 193, 255);
+}
+
+.icon1{
+    height: 16px;
+    width: 19px;
+    position: absolute;
+    right: 100px;
+    top: 16px;
+}
+.download1{
+    color: white;
+    font-family: "Kanit", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 14px;
+    position: absolute;
+    right: 18px;
+    top: 14px;
+}
+.book{
+   color: white;
+    height: 28px;
+    width: 130px;
+    font-weight: 400;
+    border: transparent;
+    border-radius: 40px;
+    padding-top: 10px;
+    background-color: red;
+    font-size: 14px;
+    position: absolute;
+    top: 7px;
+    left: 1150px;
+}
+
+.icon2{
+    width: 20px;
+    height: 22px;
+    position: absolute;
+    left: 195px;
+    top: 13px;
+}
+
+.icon3{
+    width: 35px;
+    height: 32px;
+    position: absolute;
+    left: 8px;
+    top: 8px;
+}
+
+.tex1{
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    color: whitesmoke;
+    position: absolute;
+    left: 43px;
+}
+
+.tex2{
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    color: rgb(57, 199, 255);
+    position: absolute;
+    left: 128px;
+}
+.icon4{
+    width: 24px;
+    height: 20px;
+    position: absolute;
+    left: 230px;
+    top: 14px;
+}
+.icon5{
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    left: 265px;
+    top: 14px;
+}
+.yummyhd{
+    font-family: "Kanit", sans-serif;
+  font-weight: 550;
+  font-style: normal;
+    font-size: 17px;
+    color: white;
+    position: absolute;
+    top: 10px;
+    left: 800px;
+
+  }
+  .open{
+    position: absolute;
+    top: 13px;
+    left: 765px
+  }
+  .close{
+    position: absolute;
+    top: 13px;
+    left: 870px;
+  }
+  .yummybg{
+    height: 90px;
+    width: 1500px;
+    border: transparent;
+    background-color: white;
+  }
+  .yummy2{
+    font-family: "Kanit", sans-serif;
+    font-weight: 450;
+    font-style: normal;
+    font-size: 30px;
+    color: black;
+    position: absolute;
+    left: 120px;
+    top: 60px;
+  }
+  .top-content{
+    width: 800px;
+    font-size: 17px;
+    font-weight: 400;
+    color: rgb(143, 143, 143);
+    display: flex;
+    list-style: none;
+    position: absolute;
+    left: 180px;
+    top: -10px;
+    justify-content: space-evenly;
+    
+  }
+  .imgleft{
+    height: 600px;
+    width: 805px;
+  }
+  .imgright{
+    height: 600px;
+    width: 690px;
+  }
+  .about{
+    font-size: 17px;
+    color: rgb(143, 143, 143);
+    background-color: white;
+    font-weight: 400;
+    position: absolute;
+    top: 800px;
+    left: 700px;
+  }
+.aboutus{
+    height: 150px;
+    width: 1530px;
+    position: absolute;
+    top: 820px;
+    right: 20px;
+}
+.tableimg{
+  height: 550px;
+  width: 720px;
+  position: absolute;
+  top: 950px;
+  left: 110px ;
+}
+.lorem{
+  font-family: "Kanit", sans-serif;
+  font-weight: 550;
+  font-style: normal;
+  font-size: 16px;
+  font-weight: 400;
+  color: rgb(143, 143, 143);
+  position: absolute;
+  top: 930px;
+  left: 900px;
+  right: 150px;
+}
+.tickimg{
+  height: 114px;
+  width: 36px;
+  position: absolute;
+  top: 1000px;
+  left: 900px;
+}
+.ullamco{
+  font-family: "Kanit", sans-serif;
+  font-weight: 550;
+  font-style: normal;
+  font-size: 16px;
+  font-weight: 400;
+  color: rgb(44, 40, 40);
+  position: absolute;
+  top: 990px;
+  left: 940px;
+}
+.duis{
+  font-family: "Kanit", sans-serif;
+  font-weight: 550;
+  font-style: normal;
+  font-size: 16px;
+  font-weight: 400;
+  color: rgb(44, 40, 40);
+  position: absolute;
+  top: 1028px;
+  left: 940px;
+}
+.ullamco2{
+  font-family: "Kanit", sans-serif;
+  font-weight: 550;
+  font-style: normal;
+  font-size: 16px;
+  font-weight: 400;
+  color: rgb(44, 40, 40);
+  position: absolute;
+  top: 1066px;
+  left: 940px;
+  right: 120px;
+}
+.ullamco3{
+  font-family: "Kanit", sans-serif;
+  font-weight: 550;
+  font-style: normal;
+  font-size: 16px;
+  font-weight: 400;
+  color: rgb(143, 143, 143);
+  position: absolute;
+  top: 1160px;
+  left: 900px;
+  right: 120px;
+}
+.vegimg{
+  height: 365px;
+  width: 500px;
+  position: absolute;
+  top: 1280px;
+  left: 900px;
+}
+.booking{
+  height: 110px;
+  width: 720px;
+  border: 4px solid black;
+  position: absolute;
+  top: 1530px;
+  left: 110px;
+}
+.booking2{
+  padding-left: 300px;
+  font-weight: 950;
+}
